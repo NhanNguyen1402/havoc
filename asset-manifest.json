@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/havoc/static/css/main.fe7ac914.css",
+    "main.js": "/havoc/static/js/main.a63dfed3.js",
+    "static/js/787.8bdec471.chunk.js": "/havoc/static/js/787.8bdec471.chunk.js",
+    "static/media/bg-hero.jpg": "/havoc/static/media/bg-hero.2e6d5a35d22cda1a0dd8.jpg",
+    "static/media/bg-works.jpg": "/havoc/static/media/bg-works.abd66d06d525eadfd24a.jpg",
+    "static/media/easy-customise.jpg": "/havoc/static/media/easy-customise.d4fe22138e1668906aab.jpg",
+    "static/media/great-support.jpg": "/havoc/static/media/great-support.13341f4e93333e45ebbe.jpg",
+    "static/media/advanced-option.jpg": "/havoc/static/media/advanced-option.84c7d0693123632c9035.jpg",
+    "static/media/clean-design.jpg": "/havoc/static/media/clean-design.728069dab437b67d9da8.jpg",
+    "static/media/unlimited-features.jpg": "/havoc/static/media/unlimited-features.a0b8acf77e6b57772078.jpg",
+    "index.html": "/havoc/index.html",
+    "main.fe7ac914.css.map": "/havoc/static/css/main.fe7ac914.css.map",
+    "main.a63dfed3.js.map": "/havoc/static/js/main.a63dfed3.js.map",
+    "787.8bdec471.chunk.js.map": "/havoc/static/js/787.8bdec471.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe7ac914.css",
+    "static/js/main.a63dfed3.js"
+  ]
+}
